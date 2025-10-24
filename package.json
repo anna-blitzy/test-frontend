@@ -1,0 +1,9 @@
+{
+  "name": "test-frontend-submodule",
+  "version": "1.0.0",
+  "description": "Test frontend submodule",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Frontend tests passed\""
+  }
+}
